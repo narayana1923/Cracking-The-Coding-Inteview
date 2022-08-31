@@ -1,4 +1,3 @@
-// Given a unsorted linked list - remove duplicates
 #include <bits/stdc++.h>
 using namespace std;
 
